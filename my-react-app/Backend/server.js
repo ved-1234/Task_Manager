@@ -24,7 +24,8 @@ const io = new Server(server, {
 
     origin: [
       'http://localhost:5173',
-      'http://localhost:3000'
+      'http://localhost:3000',
+       'https://task-manager-6-do87.onrender.com' 
     ],
 
     credentials: true
@@ -62,7 +63,8 @@ app.use(cors({
 
   origin: [
     'http://localhost:5173',
-    'http://localhost:3000'
+    'http://localhost:3000',
+     'https://task-manager-6-do87.onrender.com' 
   ],
 
   credentials: true
