@@ -1,0 +1,19 @@
+# frontend
+my-react-app/node_modules
+my-react-app/dist
+my-react-app/.env
+
+# backend
+Backend/node_modules
+Backend/.env
+
+# logs
+*.log
+
+# editor
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
