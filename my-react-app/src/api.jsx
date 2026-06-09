@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const api = axios.create({
 
-  baseURL: 'https://task-manager-5-pjs1.onrender.com/api'
+  baseURL: 'https://task-manager-7-xp20.onrender.com/api'
 });
 
 
